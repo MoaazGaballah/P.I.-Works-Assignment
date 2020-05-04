@@ -4,8 +4,15 @@ using namespace std;
 
 int main()
 {
+    // to run this program in WINDOWS operating system
+    // download this file into your local PC
+    // Open command line and dive to that folder
+    // run the below command
+    // "g++ -o sol solution.cpp"
+    // then run this command
+    // "sol.exe"
     // first enter the lines number
-    // then enter numbers it self
+    // then enter numbers it self (you can copy and paste)
     int n, val;
     cin >> n;
 
